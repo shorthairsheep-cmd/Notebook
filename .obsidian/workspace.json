@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "继续测试.md",
+                "file": "djdj.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "继续测试"
+              "title": "djdj"
             }
           }
         ]
@@ -186,8 +186,10 @@
   },
   "active": "4ebb121c7930c4d7",
   "lastOpenFiles": [
-    "08_Others/Markdown快捷键.md",
+    "Untitle.md",
     "继续测试.md",
+    "djdj.md",
+    "08_Others/Markdown快捷键.md",
     "08_Others/assets/Markdown快捷键/file-20260315211314491.png",
     "08_Others/assets/Markdown快捷键",
     "08_Others/assets",
