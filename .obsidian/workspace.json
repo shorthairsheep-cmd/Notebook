@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "小红书/素材收集/2026-03-22 让AI管理每日计划.md",
+                "file": "小红书/Agent Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-22 让AI管理每日计划"
+              "title": "Agent Prompt"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "4ebb121c7930c4d7",
   "lastOpenFiles": [
-    "小红书/素材收集/素材模版：日期+关键词.md",
     "小红书/素材收集/2026-03-22 让AI管理每日计划.md",
+    "小红书/素材收集/素材模版：日期+关键词.md",
     "小红书/Agent Prompt.md",
     "小红书/杨满满头像.png",
     "小红书/generate_avatar.py",
