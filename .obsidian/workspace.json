@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Agent时代分享_杨攀_20260331"
             }
-          },
-          {
-            "id": "44c20ceb722d69cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "小红书运营策略总结.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "小红书运营策略总结"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "小红书运营策略总结.md",
+                "file": "05_Resources/Agent时代分享_杨攀_20260331.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "小红书运营策略总结 的大纲"
+              "title": "Agent时代分享_杨攀_20260331 的大纲"
             }
           }
         ],
@@ -199,48 +184,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "44c20ceb722d69cf",
+  "active": "4ebb121c7930c4d7",
   "lastOpenFiles": [
-    "03_Dairy/2026-04-02-杨攀分享深度讨论笔记.md",
-    "03_Dairy/2026-04-01-职业方向思考.md",
-    "03_Dairy/2026-03-31_Agent时代分享 杨攀 · 我的思考沉淀**.md",
-    "小红书运营策略总结.md",
-    "杨攀分享深度讨论笔记",
-    "05_Resources/Agent时代分享_杨攀_20260331.md",
-    "小红书/待审核草稿/2026-03-29 用AI识别商家不靠谱言论-草稿.md",
-    "未命名.md",
-    "小红书/素材收集/2026-03-22 让AI管理每日计划.md",
-    "小红书/待审核草稿/草稿模板.md",
-    "小红书/素材收集/2026-03-29 让豆包帮我识别商家的不靠谱言论.md",
-    "小红书/已发布/2026-03-28 用AI把晦涩文字转成流程图-草稿.md",
-    "小红书/已发布/2026-03-22 AI帮我管理每日计划-草稿.md",
-    "小红书/素材收集/2026-03-29.md",
-    "小红书/素材收集/2026-03-28 让AI用图像辅助理解文字.md",
+    "05_Resources/Podcast/养虾大恐慌？内行人讲透AI趋势——刘江.md",
+    "05_Resources/Podcast/AI转型四步法：个人、组织、产品和商业.md",
     "mmexport1774782725819.jpg",
     "Screenshot_20260329_115005_com_taobao_taobao_StdPopActivityGroup.jpg",
-    "小红书/Agent Prompt.md",
-    "小红书/账号定位.md",
     "Pasted image 20260328195305.png",
+    "03_Dairy/2026-04-02_杨攀分享深度讨论笔记.md",
+    "03_Dairy/2026-04-01_职业方向思考.md",
+    "03_Dairy/2026-04-03_小红书运营策略总结.md",
+    "03_Dairy/2026-03-31_Agent时代分享 杨攀 · 我的思考沉淀**.md",
+    "杨攀分享深度讨论笔记",
+    "05_Resources/Agent时代分享_杨攀_20260331.md",
+    "09_小红书/待审核草稿/2026-03-29 用AI识别商家不靠谱言论-草稿.md",
+    "未命名.md",
+    "09_小红书/素材收集/2026-03-22 让AI管理每日计划.md",
+    "09_小红书/待审核草稿/草稿模板.md",
+    "09_小红书/素材收集/2026-03-29 让豆包帮我识别商家的不靠谱言论.md",
+    "09_小红书/已发布/2026-03-28 用AI把晦涩文字转成流程图-草稿.md",
+    "09_小红书/已发布/2026-03-22 AI帮我管理每日计划-草稿.md",
+    "小红书/素材收集/2026-03-29.md",
+    "09_小红书/素材收集/2026-03-28 让AI用图像辅助理解文字.md",
+    "09_小红书/Agent Prompt.md",
+    "09_小红书/账号定位.md",
     "小红书/素材收集/2026-03-28.md",
-    "小红书/头像设计哲学.md",
+    "09_小红书/头像设计哲学.md",
     "小红书/杨满满头像.png",
-    "小红书/待审核草稿/六位“养虾人”自述：没那么神，也没那么坑 1.webloc",
-    "小红书/待审核草稿/六位“养虾人”自述：没那么神，也没那么坑.webloc",
+    "09_小红书/待审核草稿/六位“养虾人”自述：没那么神，也没那么坑 1.webloc",
+    "09_小红书/待审核草稿/六位“养虾人”自述：没那么神，也没那么坑.webloc",
     "小红书/generate_avatar.py",
     "08_Others/Markdown快捷键.md",
     "08_Others/【公司分享】Skills玩法系列分享第1期.md",
-    "小红书/素材收集",
-    "小红书/数据复盘",
-    "小红书/待审核草稿",
-    "小红书/已发布",
-    "小红书",
+    "09_小红书/素材收集",
+    "09_小红书/数据复盘",
+    "09_小红书/待审核草稿",
+    "09_小红书/已发布",
+    "09_小红书",
     "继续测试.md",
     "djdj.md",
     "Untitle.md",
     "08_Others/assets/Markdown快捷键/file-20260315211314491.png",
     "08_Others/assets/Markdown快捷键",
-    "04_Zettel/盖尔定律.md",
-    "04_Zettel/Zettelkasten.md",
-    "test.md"
+    "04_Zettel/盖尔定律.md"
   ]
 }
