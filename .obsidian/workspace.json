@@ -11,14 +11,12 @@
             "id": "4ebb121c7930c4d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "05_Resources/Agent时代分享_杨攀_20260331.md",
-                "mode": "source",
-                "source": false
+                "file": "10_UX作品集/方向2-数据驱动与用户感知/04-骑手年度配送报告/设计稿/01-P3.png"
               },
-              "icon": "lucide-file",
-              "title": "Agent时代分享_杨攀_20260331"
+              "icon": "lucide-image",
+              "title": "01-P3"
             }
           }
         ]
@@ -156,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_Resources/Agent时代分享_杨攀_20260331.md",
+                "file": "10_UX作品集/方向2-数据驱动与用户感知/04-骑手年度配送报告/设计稿/01-P3.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Agent时代分享_杨攀_20260331 的大纲"
+              "title": "01-P3 的大纲"
             }
           }
         ],
@@ -184,8 +182,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ebb121c7930c4d7",
+  "active": "925003dabc4e1926",
   "lastOpenFiles": [
+    "10_UX作品集.zip",
+    "10_UX作品集/方向2-数据驱动与用户感知/04-骑手年度配送报告/设计稿/01-P1.png",
+    "10_UX作品集/方向2-数据驱动与用户感知/04-骑手年度配送报告/设计稿/01-首页.png",
+    "05_Resources/Agent时代分享_杨攀_20260331.md",
     "05_Resources/Podcast/养虾大恐慌？内行人讲透AI趋势——刘江.md",
     "05_Resources/Podcast/AI转型四步法：个人、组织、产品和商业.md",
     "mmexport1774782725819.jpg",
@@ -196,7 +198,6 @@
     "03_Dairy/2026-04-03_小红书运营策略总结.md",
     "03_Dairy/2026-03-31_Agent时代分享 杨攀 · 我的思考沉淀**.md",
     "杨攀分享深度讨论笔记",
-    "05_Resources/Agent时代分享_杨攀_20260331.md",
     "09_小红书/待审核草稿/2026-03-29 用AI识别商家不靠谱言论-草稿.md",
     "未命名.md",
     "09_小红书/素材收集/2026-03-22 让AI管理每日计划.md",
@@ -225,7 +226,6 @@
     "djdj.md",
     "Untitle.md",
     "08_Others/assets/Markdown快捷键/file-20260315211314491.png",
-    "08_Others/assets/Markdown快捷键",
-    "04_Zettel/盖尔定律.md"
+    "08_Others/assets/Markdown快捷键"
   ]
 }
