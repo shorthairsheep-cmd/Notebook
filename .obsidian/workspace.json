@@ -11,12 +11,10 @@
             "id": "4ebb121c7930c4d7",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "10_UX作品集/方向2-数据驱动与用户感知/04-骑手年度配送报告/设计稿/01-P3.png"
-              },
-              "icon": "lucide-image",
-              "title": "01-P3"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -154,13 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_UX作品集/方向2-数据驱动与用户感知/04-骑手年度配送报告/设计稿/01-P3.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01-P3 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -182,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "925003dabc4e1926",
+  "active": "4ebb121c7930c4d7",
   "lastOpenFiles": [
+    "10_UX作品集/方向2-数据驱动与用户感知/04-骑手年度配送报告/设计稿/01-P3.png",
     "10_UX作品集.zip",
     "10_UX作品集/方向2-数据驱动与用户感知/04-骑手年度配送报告/设计稿/01-P1.png",
     "10_UX作品集/方向2-数据驱动与用户感知/04-骑手年度配送报告/设计稿/01-首页.png",
@@ -225,7 +223,6 @@
     "继续测试.md",
     "djdj.md",
     "Untitle.md",
-    "08_Others/assets/Markdown快捷键/file-20260315211314491.png",
-    "08_Others/assets/Markdown快捷键"
+    "08_Others/assets/Markdown快捷键/file-20260315211314491.png"
   ]
 }
