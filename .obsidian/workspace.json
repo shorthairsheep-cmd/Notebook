@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Agent时代分享_杨攀_20260331"
             }
+          },
+          {
+            "id": "429419afcf9d2541",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Dairy/2026-03-28_《失败的逻辑》深度研读对话.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-28_《失败的逻辑》深度研读对话"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_Resources/Agent时代分享_杨攀_20260331.md",
+                "file": "03_Dairy/2026-03-28_《失败的逻辑》深度研读对话.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Agent时代分享_杨攀_20260331 的大纲"
+              "title": "2026-03-28_《失败的逻辑》深度研读对话 的大纲"
             }
           }
         ],
@@ -184,25 +199,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "925003dabc4e1926",
+  "active": "429419afcf9d2541",
   "lastOpenFiles": [
-    "05_Resources/课代表立正：AI 课卖 2000 刀，偏偏坚持古法手搓_原文.docx",
+    "03_Dairy/2026-04-02_杨攀分享深度讨论笔记.md",
+    "03_Dairy/2026-04-01_职业方向思考.md",
+    "03_Dairy/2026-04_艺术、自由与 AI 时代的“人之为人”.md",
     "03_Dairy/2026-03-28_《失败的逻辑》深度研读对话.md",
+    "03_Dairy/2026-03_AI 时代的生存策略：从工具焦虑到问题定义.md",
+    "05_Resources/Agent时代分享_杨攀_20260331.md",
+    "05_Resources/课代表立正：AI 课卖 2000 刀，偏偏坚持古法手搓_原文.docx",
     "Screenshot_20260329_115005_com_taobao_taobao_StdPopActivityGroup.jpg",
     "Pasted image 20260328195305.png",
     "mmexport1774782725819.jpg",
-    "未命名.md",
     "05_Resources/设计数据实践经验.pdf",
-    "03_Dairy/2026-03_AI 时代的生存策略：从工具焦虑到问题定义.md",
-    "03_Dairy/2026-04-01_职业方向思考.md",
     "10_UX作品集/方向2-数据驱动与用户感知/04-骑手年度配送报告/设计稿/01-P3.png",
     "10_UX作品集.zip",
     "10_UX作品集/方向2-数据驱动与用户感知/04-骑手年度配送报告/设计稿/01-P1.png",
     "10_UX作品集/方向2-数据驱动与用户感知/04-骑手年度配送报告/设计稿/01-首页.png",
-    "05_Resources/Agent时代分享_杨攀_20260331.md",
     "05_Resources/Podcast/养虾大恐慌？内行人讲透AI趋势——刘江.md",
     "05_Resources/Podcast/AI转型四步法：个人、组织、产品和商业.md",
-    "03_Dairy/2026-04-02_杨攀分享深度讨论笔记.md",
     "03_Dairy/2026-04-03_小红书运营策略总结.md",
     "03_Dairy/2026-03-31_Agent时代分享 杨攀 · 我的思考沉淀**.md",
     "杨攀分享深度讨论笔记",
@@ -227,7 +242,6 @@
     "09_小红书/素材收集",
     "09_小红书/数据复盘",
     "09_小红书/待审核草稿",
-    "09_小红书/已发布",
     "继续测试.md",
     "08_Others/assets/Markdown快捷键/file-20260315211314491.png"
   ]
